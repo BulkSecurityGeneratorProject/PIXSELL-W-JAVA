@@ -1,0 +1,36 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.legator.pixsell"
+    },
+    "jhipsterVersion": "4.10.0",
+    "baseName": "PIXSELL_W",
+    "packageName": "com.legator.pixsell",
+    "packageFolder": "com/legator/pixsell",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "hibernateCache": "ehcache",
+    "clusteredHttpSession": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSocialSignIn": true,
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "4f98201f4d30f464b76239fdf6e02c698cab385d",
+    "clientFramework": "angularX",
+    "useSass": true,
+    "clientPackageManager": "yarn",
+    "applicationType": "monolith",
+    "testFrameworks": [
+      "gatling",
+      "protractor"
+    ],
+    "jhiPrefix": "jhi",
+    "enableTranslation": false
+  }
+}
