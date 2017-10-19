@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PIXSELL_W
 This application was generated using JHipster 4.10.0, you can find documentation and help at [http://www.jhipster.tech/documentation-archive/v4.10.0](http://www.jhipster.tech/documentation-archive/v4.10.0).
 
@@ -174,3 +175,7 @@ To configure CI for your project, run the ci-cd sub-generator (`jhipster ci-cd`)
 [Protractor]: https://angular.github.io/protractor/
 [Leaflet]: http://leafletjs.com/
 [DefinitelyTyped]: http://definitelytyped.org/
+=======
+# PIXSELL-W
+Pixsell web application 
+>>>>>>> branch 'master' of https://github.com/tharindu99/PIXSELL-W.git
